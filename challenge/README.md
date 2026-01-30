@@ -40,7 +40,7 @@ If done well, your work towards this core task can result in novel, publishable 
 # Submission
 
 Your submission will consist of two parts:
-1. Please make a pull request to the challenge repository. You should put all of your submission materials into one folder named as `team-<name>/`, for example `team-cats/`. This will allow us to actually merge your pull request to live on in the main branch! This folder should then contain:
+1. Please make a pull request to the challenge repository. You should put all of your submission materials into one folder named as `team-<name>/`, for example `team-cats/`. Please do not modify or delete the `challenge/` folder in this repository. This will allow us to actually merge your pull request to live on in the main branch! Your team folder should then contain all of your submission materials, including:
    1. A copy of `1-challenge.ipynb` filled with responses to Tasks in sections 1-4.
    2. We recommend putting code, papers, slides, README, etc. related to the Core Task in Section 5 in a separate sub-folder. It would help to write a README to describe the contents of your submission. We will review this code when deciding winners.
    3. So, the structure of your submission should look like:
@@ -50,11 +50,11 @@ Your submission will consist of two parts:
          core/
             README.md
             notebook.ipynb # not required, just an example
-            slides.pdf # not required, just an example
+            slides.pdf # not required, just an example, a link to google slides in the README also suffices
             paper.pdf # not required, just an example
             ...
       ```
-2. Please prepare for a 7 minute presentation and 3 minute Q&A with judges. In this presentation, we recommend that you focus on your results related to the Core Task.
+2. Please prepare for a 7 minute presentation and 3 minute Q&A with judges. You can keep editing your presentation until you give it. In this presentation, we recommend that you focus on your results related to the Core Task.
 
 # Support
 
